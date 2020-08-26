@@ -78,7 +78,7 @@ $ yarn start
 $ git clone git@github.com:igor-cotrim/Proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Proffyv
+$ cd Proffy
 
 # Vá para a pasta da aplicação Front End
 $ cd web
