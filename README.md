@@ -1,100 +1,100 @@
 <h1 align="center">🎓 Proffy </h1>
 
-<h3 align="center">Sua plataforma de estudos online. Estudando ou dando aula a gente sempre aprende! 🎓</h3>
+<h3 align="center">Your online study platform. Studying or teaching, we always learn! 🎓</h3>
 
 <h4 align="center"> 
-	🚧  Concluído  🚧
+	🚧  Concluded  🚧
 </h4>
 
 <p align="center">
- <a href="#sobre-o-projeto-">Sobre</a> •
- <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a> • 
- <a href="#como-executar">Como executar</a> • 
- <a href="#tecnologias-">Tecnologias</a> • 
- <a href="#licença-">Licença</a> • 
- <a href="#autor-">Autor</a>
+ <a href="#about">About</a> •
+ <a href="#Functionalities-%EF%B8%8F">Functionalities</a> • 
+ <a href="#how-to-run">How to run</a> • 
+ <a href="#technology-">Technology</a> • 
+ <a href="#license-">License</a> • 
+ <a href="#author-">Author</a>
 </p>
 
-## Sobre o projeto 💻
+## About 💻
 
-🎓 Proffy - é uma forma de conectar estudantes e professores em uma plataforma de estudos online.
+🎓 Proffy - is a way to connect students and teachers in an online study platform.
 
-Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-
----
-
-## Funcionalidades ⚙️
-
-professores ou alunos podem se cadastrar na plataforma web:
-
-- [x] Professores podem cadrastrar suas aulas em um formulario completo selecionando as materias, custo da hora por aula e horarios disponiveis
-- [x] Alunos podem procurar por aulas que estaram salvas no banco de dados de aulas disponiveis
-
-Os usuários tem acesso ao aplicativo móvel, onde podem:
-
-- [x] Favoritar os seus professores favoritos
+Project developed during NLW - Next Level Week offered by Rocketseat. NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
 
 ---
 
-## Como executar
+## Functionalities ⚙️
 
-Este projeto é divido em três partes:
+Teachers or students can register on the web platform:
 
-- Backend (pasta server)
-- Frontend (pasta web)
-- Mobile (pasta mobile) <br/>
+- [x] Teachers can register their classes in a complete form selecting the subjects, cost of the hour per class and available times
+- [x] Students can search for classes that have been saved in the database of available classes
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+Users have access to the mobile app, where they can:
 
-### Pré-requisitos
+- [x] Favorite your favorite teachers
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
+---
 
-#### 🎲 Rodando o Backend (servidor)
+## How to run
+
+This project is divided into three parts:
+
+- Backend (server folder)
+- Frontend (web folder)
+- Mobile (mobile folder) <br/>
+
+💡 Both Frontend and Mobile need the Backend to be running to work.
+
+### Prer equisites
+
+Before you begin, you will need to have the following tools installed on your machine: Git, Node.js. In addition, it is good to have an editor to work with code like VSCode
+
+#### 🎲 Running the Backend (server)
 
 ```sh
-# Clone este repositório
+# Clone this repository
 $ git clone git@github.com:igor-cotrim/Proffy
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in the terminal/cmd
 $ cd Proffy
 
-# Vá para a pasta server
+# Go to the server folder
 $ cd server
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# The server will start at the port:3333 - access http://localhost:3333 
 ```
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Running the web application (Frontend)
 
 ```sh
-# Clone este repositório
+# Clone this repository
 $ git clone git@github.com:igor-cotrim/Proffy
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder in the terminal/cmd
 $ cd Proffy
 
-# Vá para a pasta da aplicação Front End
+# Go to the server folder
 $ cd web
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The server will start at the port:3000 - acesse http://localhost:3000
 ```
 
-## Tecnologias 🛠
+## Technology 🛠
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 #### Website ([React](https://pt-br.reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
@@ -129,13 +129,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 
-## Licença 📝
+## License 📝
 
-Este projeto esta sobe a licença [MIT](https://choosealicense.com/licenses/mit/)
+This project is under license [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
-## Autor 🦸
+## Author 🦸
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
@@ -143,7 +143,7 @@ Este projeto esta sobe a licença [MIT](https://choosealicense.com/licenses/mit/
  <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
 
 
-Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
+Made with ❤️ by Igor Cotrim 👋🏽 Get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
