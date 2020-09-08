@@ -9,7 +9,7 @@
 <p align="center">
  <a href="#about">About</a> •
  <a href="#Functionalities-%EF%B8%8F">Functionalities</a> • 
- <a href="#how-to-run-ℹ%EF%B8%8F">How to run</a> • 
+ <a href="#how-to-run-ℹ">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
