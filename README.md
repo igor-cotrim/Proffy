@@ -15,6 +15,12 @@
  <a href="#author-">Author</a>
 </p>
 
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
 ## About 💻
 
 🎓 Proffy - is a way to connect students and teachers in an online study platform.
